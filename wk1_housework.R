@@ -39,3 +39,4 @@ con %>%
 # disconnect from it
 con %>% 
   dbDisconnect()
+Added on github.com
